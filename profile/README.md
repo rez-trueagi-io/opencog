@@ -2,7 +2,7 @@
 OpenCog aims to create AGI with a combination of exploration, engineering and basic science research.
 Side quests have included robotics systems ([Hanson Robotics](https://www.hansonrobotics.com)),
 financial systems (Aidiya),
-genomics (MOZI and Rejuve.bio),
+genomics (MOZI and [Rejuve.bio](https://www.rejuve.bio)),
 machine learning ([predicting risk from clinician notes](https://doi.org/10.1371/journal.pone.0085733)),
 natural language chatbots ([virtual dog playing fetch](https://www.youtube.com/watch?v=FEmpGRLwbqE)) and more.
 This project was pioneered by [Dr. Ben Goertzel](https://en.wikipedia.org/wiki/Ben_Goertzel).
@@ -11,18 +11,19 @@ Git repos fall into four categories:
 ### OpenCog AtomSpace
 The core of the system: active, stable and supported.
 
-* Base AtomSpace
+* AtomSpace (Hypergraph database and query engine)
 * CogServer and atomspace-cog (for networking, json, websockets)
-* atomspace-rocks (disk I/O subsystem)
+* atomspace-rocks (disk I/O subsystem based on RocksDB)
 * Proxy Nodes (for data routing, replaces attention bank)
 * Link Grammar (including the learn subproject for neuro-symbolic structure learning)
-* Docker containers (provide system integration)
+* Docker containers (provide system integration and demos)
 
 ### OpenCog Classic
 Older, abandoned and obsolete components. These were educational and fun, but development has
 halted. These projects are no longer maintained, but they may contain useful subsystems that
 might be salvageable for future use. This includes:
-* PLN, URE, Attention, SpaceTime, Ghost, Relex, R2L, ROS, Eva/Sophia, MOSES (but not as-moses, see below).
+* PLN, URE, Attention, SpaceTime, Ghost, Relex, R2L, ROS, HR Eva/Sophia
+* MOSES (but not as-moses, see below).
 
 ### OpenCog Hyperon
 Being developed by [Singularity.net](https://singularitynet.io).
