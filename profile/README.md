@@ -34,7 +34,7 @@ These are the immature, incomplete, promising projects that haven't taken off ye
 
 * Atomspace-prolog proof-of-concept
 * Chemistry proof-of-concept
-* agi-bio (genomics subsystem use by MOZI and rejuve.bio)
+* agi-bio (genomics subsystem used by MOZI and rejuve.bio)
 * visualization (GUI to explore AtomSpace contents)
 * as-moses (Port of MOSES to the AtomSpace)
 * Vision proof-of-concept (Extracting structure from images, video)
