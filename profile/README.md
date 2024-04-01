@@ -1,5 +1,6 @@
 ## The OpenCog Project 👋
-OpenCog aims to create AGI with a combination of exploration, engineering and basic science research.
+[OpenCog aims to create AGI](https://wiki.opencog.org/w/The_Open_Cognition_Project)
+with a combination of exploration, engineering and basic science research.
 Side quests have included robotics systems ([Hanson Robotics](https://www.hansonrobotics.com)),
 financial systems (Aidiya),
 genomics (MOZI and [Rejuve.bio](https://www.rejuve.bio)),
@@ -18,7 +19,7 @@ The core of the system: active, stable and supported.
 * Link Grammar (including the learn subproject for neuro-symbolic structure learning)
 * Docker containers (provide system integration and demos)
 
-### OpenCog Classic
+### OpenCog Fossils
 Older, abandoned and obsolete components. These were educational and fun, but development has
 halted. These projects are no longer maintained, but they may contain useful subsystems that
 might be salvageable for future use. This includes:
