@@ -52,6 +52,6 @@ Contact [Linas Vepstas](linasvepstas@gmail.com).
 
 ### Commercial support
 If you are a commercial business looking to use any of these components in your products,
-we can full-time support, if that's what you want. We'll custom-taylor components, systems,
-and API's to suit your needs. If you are an investor looking to build up a venture, well yes,
-that could happen too. Talk to us. Contact [Linas Vepstas](linasvepstas@gmail.com).
+we can provide full-time support, if that's what you want. We'll custom-taylor components,
+systems, and API's to suit your needs. If you are an investor looking to build up a venture,
+well yes, that could happen too. Talk to us. Contact [Linas Vepstas](linasvepstas@gmail.com).
