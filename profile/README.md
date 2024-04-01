@@ -39,3 +39,19 @@ These are the immature, incomplete, promising projects that haven't taken off ye
 * Vision proof-of-concept (Extracting structure from images, video)
 * Hyperon-on-top-of-atomspace proof of concept (Hyperon backwards-compat)
 * Any repo that is not marked "read-only" or "obsolete".
+
+# HELP WANTED
+The above-mentioned commercial projects don't pay the bills. There are far more ideas
+and possibilities than there is time or money. If you're a software developer, bored
+and looking for something to do, there's a lot of great stuff here that is worthy of
+attention. If you are an academic, scientist or grad student, someone who wants to do
+cross-over Symbolic AI and Deep-Learning Neural Net research, and need a base toolset,
+this is the place. We will work with you to make sure this stuff fits your needs and
+does what you want it to do, the way you want it.
+Contact [Linas Vepstas](linasvepstas@gmail.com).
+
+### Commercial support
+If you are a commercial business looking to use any of these components in your products,
+we can full-time support, if that's what you want. We'll custom-taylor components, systems,
+and API's to suit your needs. If you are an investor looking to build up a venture, well yes,
+that could happen too. Talk to us. Contact [Linas Vepstas](linasvepstas@gmail.com).
