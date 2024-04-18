@@ -19,6 +19,12 @@ The core of the system: active, stable and supported.
 * Link Grammar (including the learn subproject for neuro-symbolic structure learning)
 * Docker containers (provide system integration and demos)
 
+### OpenCog Research
+Git repos in which active resarch is being carried out:
+* Learn (Symbolic learning) "mature", batch-based processing
+* Agents (refactoring learning for an interactive environment)
+* Sensory (Envirnomental I/O subsystem for agents.)
+
 ### OpenCog Fossils
 Older, abandoned and obsolete components. These were educational and fun, but development has
 halted. These projects are no longer maintained, but they may contain useful subsystems that
@@ -32,6 +38,7 @@ Being developed by [Singularity.net](https://singularitynet.io).
 ### OpenCog Incubator
 These are the immature, incomplete, promising projects that haven't taken off yet.
 
+* Sensory subsystem proof-of-concept
 * Atomspace-prolog proof-of-concept
 * Chemistry proof-of-concept
 * agi-bio (genomics subsystem used by MOZI and rejuve.bio)
