@@ -31,6 +31,7 @@ halted. These projects are no longer maintained, but they may contain useful sub
 might be salvageable for future use. This includes:
 * PLN, URE, Attention, SpaceTime, Ghost, Relex, R2L, ROS, HR Eva/Sophia
 * MOSES (but not as-moses, see below).
+* Any repo that is marked "read-only" or "obsolete".
 
 ### OpenCog Hyperon
 Being developed by [Singularity.net](https://singularitynet.io).
@@ -38,15 +39,13 @@ Being developed by [Singularity.net](https://singularitynet.io).
 ### OpenCog Incubator
 These are the immature, incomplete, promising projects that haven't taken off yet.
 
-* Sensory subsystem proof-of-concept
-* Atomspace-prolog proof-of-concept
+* Prolog-on-Atomspace proof-of-concept
 * Chemistry proof-of-concept
 * agi-bio (genomics subsystem used by MOZI and rejuve.bio)
 * visualization (GUI to explore AtomSpace contents)
 * as-moses (Port of MOSES to the AtomSpace)
 * Vision proof-of-concept (Extracting structure from images, video)
 * Hyperon-on-top-of-atomspace proof of concept (Hyperon backwards-compat)
-* Any repo that is not marked "read-only" or "obsolete".
 
 # HELP WANTED
 The above-mentioned commercial projects don't pay the bills. There are far more ideas
