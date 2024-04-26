@@ -23,7 +23,7 @@ The core of the system: active, stable and supported.
 Git repos in which active resarch is being carried out:
 * Learn (Symbolic learning) "mature", batch-based processing
 * Agents (refactoring learning for an interactive environment)
-* Sensory (Envirnomental I/O subsystem for agents.)
+* Sensory (Environmental I/O subsystem for agents.)
 
 ### OpenCog Fossils
 Older, abandoned and obsolete components. These were educational and fun, but development has
