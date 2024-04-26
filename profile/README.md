@@ -29,7 +29,7 @@ Git repos in which active resarch is being carried out:
 Older, abandoned and obsolete components. These were educational and fun, but development has
 halted. These projects are no longer maintained, but they may contain useful subsystems that
 might be salvageable for future use. This includes:
-* PLN, URE, Attention, SpaceTime, Ghost, Relex, R2L, ROS, HR Eva/Sophia
+* PLN, URE, Attention, SpaceTime, Ghost, Relex, R2L, ROS, Hanson Robotics Eva/Sophia
 * MOSES (but not as-moses, see below).
 * Any repo that is marked "read-only" or "obsolete".
 
