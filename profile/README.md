@@ -40,7 +40,7 @@ Being developed by [Singularity.net](https://singularitynet.io).
 These are the immature, incomplete, promising projects that haven't taken off yet.
 
 * [SQL Bridge](https://github.com/opencog/atomspace-bridge) - Direct I/O between SQL and AtomSpace
-* Prolog-on-Atomspace proof-of-concept
+* [Prolog-on-Atomspace](https://github.com/opencog/atomspace/tree/master/opencog/persist/prolog) proof-of-concept
 * [Chemistry](https://github.com/opencog/cheminformatics) proof-of-concept
 * [agi-bio](https://github.com/opencog/agi-bio) (genomics subsystem used by MOZI and rejuve.bio)
 * [visualization](https://github.com/opencog/visualization) (GUI to explore AtomSpace contents)
