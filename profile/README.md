@@ -10,7 +10,7 @@ This project was pioneered by [Dr. Ben Goertzel](https://en.wikipedia.org/wiki/B
 Git repos fall into four categories:
 
 ### OpenCog AtomSpace
-The core of the system: active, stable and supported.
+The core of the system. As of 2024, it is active, stable and supported.
 
 * [AtomSpace](https://github.com/opencog/atomspace) - Hypergraph database and query engine.
 * [CogServer](https://github.com/opencog/cogserver) and [atomspace-cog](https://github.com/opencog/atomspace-cog) - Networking, json, websockets.
